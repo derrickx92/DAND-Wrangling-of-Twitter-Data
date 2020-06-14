@@ -1,5 +1,5 @@
 # DAND-Wrangling-of-Twitter-Data
-This project documents steps taken to wrangle data regarding Twitter user @dog_rates, also known as WeRateDogs (https://twitter.com/dog_rates). It also documents insights/visualisations drawn from analyzing the wrangled data. To date, @dog_rates has over 6 million followers.
+This project documents steps taken to wrangle data regarding Twitter user @dog_rates, also known as [WeRateDogs] (https://twitter.com/dog_rates). It also documents insights/visualisations drawn from analyzing the wrangled data. To date, @dog_rates has over 6 million followers.
 
 ## Datasets
 Three datasets were wrangled, and used in the analysis:
